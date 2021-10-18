@@ -9,7 +9,7 @@ from flask import jsonify
 # initiate flask
 app = Flask(__name__)
 
-from tensorflow import keras
+import keras
 
 model = keras.models.load_model('model(m).h5')
 
