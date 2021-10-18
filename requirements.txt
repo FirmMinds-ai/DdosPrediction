@@ -2,5 +2,5 @@ Flask==1.1.1
 gevent==1.4.0
 h5py==2.10.0
 numpy==1.17.0
-tensorflow==2.0.0
+tensorflow==2.2.0rc4
 Werkzeug==0.16.0
